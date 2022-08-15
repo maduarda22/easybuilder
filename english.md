@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/81401104/114604033-d7747000-9c6e-11eb-8150-05be1f550f81.png">
 
 # Table Content
-- [First steps in Easy Builder 🦶](#id-frist)
+- [First steps in Easy Builder 🦶](#id-first)
 - [It's time to get hands-on 🖐️](#id-hands)
 - [Components 🧱](#id-component)
     - [Textfield 📓](#id-textfield)
@@ -67,7 +67,7 @@
 - [Page Tutorials 📄](#id-PageTutorials)
    - [ Create a grid on a page ](#id-gridInPage)
 
-<div id='id-frist'/>
+<div id='id-first'/>
 
 ## First steps in Easy Builder 🦶
 <p>At first we need to create a login to <b>"Easy Builder"(our creation platform).<p>
