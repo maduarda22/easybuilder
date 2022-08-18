@@ -1232,7 +1232,7 @@ To continue from here, you need to have done the steps in the tutorials "How to 
   <li><a href="https://github.com/magnoeasy/easybuilder/blob/main/english.md#id-Permission">How to Give Your User Permission</a></li>
 </ul>
 
-The following screen will appear:
+This screen will appear:
 ![image](https://user-images.githubusercontent.com/81401104/116141142-abb1ab00-a6ae-11eb-9f0b-649dc9fd5d2a.png)
 
 Now click on the button ![image](https://user-images.githubusercontent.com/81401104/116141954-b6207480-a6af-11eb-8b8e-157154509935.png)
@@ -2058,7 +2058,7 @@ Custom Scripts:
  <li>Delete.</li>
 </ul>
 
-e Form Rule - Clicking on it will open the following modal:
+Form Rule - Clicking on it, it will open the following modal:
 
 ![rule2](https://user-images.githubusercontent.com/81401104/117351260-e2907980-ae83-11eb-8218-1aab56a49e29.gif).
 
@@ -2067,7 +2067,7 @@ e Form Rule - Clicking on it will open the following modal:
 ## Notification (Form)
 ![image](https://user-images.githubusercontent.com/81401104/117351815-8a0dac00-ae84-11eb-97ac-106552f4e3bb.png)
 
-Click the ![image](https://user-images.githubusercontent.com/81401104/117351832-92fe7d80-ae84-11eb-9dbb-0cf81e760ed6.png) button (Above "No notification found!"). 
+Click the ![image](https://user-images.githubusercontent.com/81401104/117351832-92fe7d80-ae84-11eb-9dbb-0cf81e760ed6.png) button (above "No notification found!"). 
 
 The following modal will open:
 
@@ -2105,6 +2105,10 @@ By selecting "User" or "Role" , a dropdown will appear with the list of added us
 
 (To learn how to add a user, go to the tutorial "How to Add a User").
 
+<ul>
+  <li><a href="https://github.com/magnoeasy/easybuilder/blob/main/english.md#id-How">How to Add a User</a></li>
+</ul>
+
 By selecting the user and clicking the ![image](https://user-images.githubusercontent.com/81401104/117354764-1c637f00-ae88-11eb-912a-f800877ca922.png) button
 
 it will look like this:
@@ -2119,7 +2123,7 @@ Then just click the ![image](https://user-images.githubusercontent.com/81401104/
 <div id='id-Kanban'/>
 
 ## Kanban 🎰
-To create a kanban, you need to create a new form, and then the header will appear as follows: 
+To create a kanban, you need to create a new form, and then the header will appear as it follows: 
 
 ![image](https://user-images.githubusercontent.com/81401104/117355489-03a79900-ae89-11eb-8310-c882e6007371.png)
 
@@ -2142,7 +2146,7 @@ So now let's create a new form:
 Fill in the essential information: "Form Title" with "Task" and select the same project and Kanban menu.
 ![image](https://user-images.githubusercontent.com/81401104/117355777-5da85e80-ae89-11eb-8539-3e5b57736a37.png)
 
-and then add 3 components into the form: one "Dropdown" and two "Textfields":
+then add 3 components into the form: one "Dropdown" and two "Textfields":
 ![image](https://user-images.githubusercontent.com/81401104/117355805-639e3f80-ae89-11eb-9da6-6b330c4fe683.png)
 
 Name the 'Dropdown' "Column Field", the 1st textfield "Label" and the 2nd textfield "Description".
@@ -2154,14 +2158,12 @@ click on the green add button:
 
 ![image](https://user-images.githubusercontent.com/81401104/117355886-7e70b400-ae89-11eb-9a6e-8d44744862fe.png)
 
-In the "Enumerations" modal window, set the name to "Status", Type "String". 
+In the "Enumerations" modal window, set the name to "Status", and the type to "String". 
 
-click on the button ![image](https://user-images.githubusercontent.com/81401104/117355963-95afa180-ae89-11eb-86dd-0891fc620005.png)
-
-and add the options "Pending", "Approved", and "Rejected".
+Click on the button ![image](https://user-images.githubusercontent.com/81401104/117355963-95afa180-ae89-11eb-86dd-0891fc620005.png) and add the options "Pending", "Approved", and "Rejected".
 ![image](https://user-images.githubusercontent.com/81401104/117356003-a6f8ae00-ae89-11eb-894e-ffe8b6d0e679.png)
 
-Então click on the button ![image](https://user-images.githubusercontent.com/81401104/117356027-afe97f80-ae89-11eb-8f54-6361f0cbfa9e.png). Run the application.
+Then click on the button ![image](https://user-images.githubusercontent.com/81401104/117356027-afe97f80-ae89-11eb-8f54-6361f0cbfa9e.png) and run the application.
 
 Now go back to the Kanban screen and refresh the page (hit the F5 key).
 In the field properties, on the "Form" dropdown select the form we just created ("Task"). 
@@ -2183,17 +2185,15 @@ Let us continue with the process, click on the button ![image](https://user-imag
 In "Column Field" select the option ''Pending'', in 'Label' write "Hotel Website" and in 'Description' write "1 month deadline".
 ![image](https://user-images.githubusercontent.com/81401104/117356387-0b1b7200-ae8a-11eb-8285-1dd12578453b.png)
 
-
-click on the button ![image](https://user-images.githubusercontent.com/81401104/117356400-0f478f80-ae8a-11eb-9be9-e0496b074cc5.png).
+Click on the button ![image](https://user-images.githubusercontent.com/81401104/117356400-0f478f80-ae8a-11eb-9be9-e0496b074cc5.png).
 
 ![image](https://user-images.githubusercontent.com/81401104/117356439-1a022480-ae8a-11eb-85e1-295dc2d82773.png)
 
-And now you can move the item "Hotel Website" to the "approved" or "declined" tab (just select it, press and drag it to the other card).
+And now you can move the item "Hotel Website" to the "approved" or "declined" tab (just select it, press and drag it to the other column).
 ![image](https://user-images.githubusercontent.com/81401104/117356479-271f1380-ae8a-11eb-982a-b193af472914.png)
 
 And this is the Kanban in action. To add more tasks, just repeat the process:
 ![image](https://user-images.githubusercontent.com/81401104/117356511-30a87b80-ae8a-11eb-8bf8-33d94e12b295.png)
-
 ![image](https://user-images.githubusercontent.com/81401104/117356524-356d2f80-ae8a-11eb-8555-4c4420a34297.png)
 
 <div id='id-Software'/>
@@ -2201,6 +2201,8 @@ And this is the Kanban in action. To add more tasks, just repeat the process:
 ## Software Replication
 
 Contact Easy Comtec support.
+
+You can do it through the conversation icon on the right of the top menu. [image]
 
 <div id='id-List'/>
 
@@ -2211,11 +2213,9 @@ To view the form in list format, create a new form and add the components "Textf
 
 Click the ![Save](https://user-images.githubusercontent.com/81401104/123157128-889e4000-d440-11eb-83bc-e4024350d952.png) button at the bottom of the page.
 
-Now select the "List" option in the header. It will appear as follows:
+Now select the "List" option on the header. It will appear as it follows:
 
-by clicking the button ![image](https://user-images.githubusercontent.com/81401104/117356874-a14f9800-ae8a-11eb-8fcf-ac2385cfd89b.png), 
-
-the following modal window will appear:
+by clicking the button ![image](https://user-images.githubusercontent.com/81401104/117356874-a14f9800-ae8a-11eb-8fcf-ac2385cfd89b.png), this modal window will appear on the screen:
 
 ![image](./BuilderImages/modalList.png)
 
@@ -2227,14 +2227,13 @@ Ascend: To ascend.
 
 Descend: To descend.
 
-Select All: Select all.
+Select All: Select all of the fields.
 
-Select none: Select none.
+Select none: Select none of them.
 
 Close: Close.
 
-Back on the list screen, when you click on the ![image](https://user-images.githubusercontent.com/81401104/117357136-f12e5f00-ae8a-11eb-8bc7-b6c401199f1f.png)
-(new column), the following modal will appear:
+Back on the list screen, when you click on the ![image](https://user-images.githubusercontent.com/81401104/117357136-f12e5f00-ae8a-11eb-8bc7-b6c401199f1f.png) (new column), this modal will open:
 
 ![image](https://user-images.githubusercontent.com/81401104/117493345-39ac5200-af49-11eb-8d26-110eccd17aeb.png)
 
@@ -2245,7 +2244,7 @@ Type:
  
  _Button
 
-Field Title:
+Field Title: give a title to your field
 
 Format:
 <ul>
@@ -2262,7 +2261,7 @@ Expression:
 
 ![image](https://user-images.githubusercontent.com/81401104/117493695-b50e0380-af49-11eb-949f-79c2fcd1e4d0.png) button serves to evaluate whether the expression is valid or not.
 
-If you want to edit the column properties, hover the mouse over the column name and then the following symbols will appear in the left corner:
+If you want to edit the column properties, hover the mouse over the column name and then this symbols will appear on the left corner:
 
 ![image](https://user-images.githubusercontent.com/81401104/117493776-d111a500-af49-11eb-8f88-46f1d5e89512.png)
 
@@ -2297,7 +2296,7 @@ Now run the application.
 
 ![image](https://user-images.githubusercontent.com/81401104/117494967-6f523a80-af4b-11eb-9938-7b7ff758c1e5.png)
 
-Notice that next to the "Age Filter" field there is a " = (equal) " symbol, you can change it to other types of symbols.
+Notice that next to the "Age Filter" field there is a " = " (equal) symbol, you can change it to other types of symbols.
 
 ![image](https://user-images.githubusercontent.com/81401104/117495247-c1935b80-af4b-11eb-8aa8-aede23006352.png)
 
@@ -2347,7 +2346,10 @@ And the user registration screen will appear.
 ## 👨👩 How to Give User Permission 
 
 To follow this tutorial, you must have gone through the steps in the "How to Add a User" tutorial. 
-"Adding a User" tutorial.
+
+<ul>
+  <li><a href="https://github.com/magnoeasy/easybuilder/blob/main/english.md#id-How">How to Add a User</a></li>
+</ul>
 
 After you have created the form and run the application, you will be faced with the registration screen:
 
