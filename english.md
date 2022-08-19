@@ -2421,7 +2421,7 @@ And now you can see the users that are inserted in the "Role".
 <li><b>OnEditForm</b> - Called whenever you edit a record</li>
 </ul>
 
-#####Examples of use:
+####Examples of use:
 To use it just declare a function in the "Custom scripts" with the name of the event, in this case the "onNewForm" was used.
 
 <img src="./BuilderImages/FormEvents/OnNewFormDesign.gif">
@@ -2453,7 +2453,7 @@ The creation of this form will serve to perform the tutorials of the "Tools" sec
 
 This way it will be easier to proceed with the next steps of learning.
 
-So, create your new form, name it "Form X" and select a previously created "Project" and "Menu" to test.
+So, create your new form, name it "Form X" and select a previously created "Project" and "Menu" to the test.
 
 ![image](https://user-images.githubusercontent.com/81401104/117498862-bf7fcb80-af50-11eb-82a6-aa9210888d5a.png)
 
@@ -2466,15 +2466,13 @@ Rename the "Textfield" to "Full Name" and the "Dropdown" to "Function", in both 
 
 ![image](https://user-images.githubusercontent.com/81401104/117498919-d4f4f580-af50-11eb-8be6-3433989b24cc.png)
 
-
-In the "Values" section of the "Role" field, add the options "Programmer", "Support" and "Designer":
+On the "Values" section of the "Role" field, add the options "Programmer", "Support" and "Designer":
 
 ![Enumeration function](https://user-images.githubusercontent.com/81401104/123556476-d7f6b000-d761-11eb-8275-910d5c4b383b.png)
 
 Run the application:.
 
 ![image](https://user-images.githubusercontent.com/81401104/117498964-e6d69880-af50-11eb-99b0-8aa2ad98e4b1.png)
-
 
 Now add the following set of names and functions:
 <ol>
@@ -2486,7 +2484,7 @@ Now add the following set of names and functions:
  <li>Carla / Designer</li>
 </ol>
 
-After saving this set, it will be arranged as follows on the records screen:
+After saving this set, it will be arranged like this on the records screen:
 ![image](https://user-images.githubusercontent.com/81401104/117499097-1dacae80-af51-11eb-877c-8564f794eb49.png)
 
 
@@ -2511,11 +2509,11 @@ After clicking it, you will see the following screen:
 
 ![image](https://user-images.githubusercontent.com/81401104/117499322-71b79300-af51-11eb-92c5-dc8c47f0597c.png)
 
-Then click the ![image15](https://user-images.githubusercontent.com/81401104/117499337-77ad7400-af51-11eb-8d48-bb4059e2e299.png) button on the top left.
+Then click the ![image](https://user-images.githubusercontent.com/81401104/117499337-77ad7400-af51-11eb-8d48-bb4059e2e299.png) button on the top left.
 
 ![image](https://user-images.githubusercontent.com/81401104/117499374-88f68080-af51-11eb-8b81-bd9c6dca2b5a.png)
 
-After clicking the button, the following modal window will open:
+After clicking the button, this modal window will open next:
 
 ![image](./BuilderImages/datasourceTools.png)
 
@@ -2559,22 +2557,19 @@ On the home screen, when you log into the account, you will be faced with the fo
 ![image](./BuilderImages/Reportaba.png)
 
 
-Select the "Report" tab and click the ![image](./BuilderImages/newbutton.png).
+Select the "Report" tab and click the ![image](./BuilderImages/newbutton.png) button.
 
 The following modal window will open:
 
 ![image](./BuilderImages/reportmodal.png)
 
-
 In the "Title", type the title of your report (it can be "Report X"), in "DataSource" select the datasource created in the previous tutorial the "DataSource X":
 
 ![image](./BuilderImages/reportname.png)
 
-
-click the button ![image](https://user-images.githubusercontent.com/81401104/117499759-0a4e1300-af52-11eb-8351-f8822d611d15.png). 
+Click the button ![image](https://user-images.githubusercontent.com/81401104/117499759-0a4e1300-af52-11eb-8351-f8822d611d15.png). 
 
 ![image](./BuilderImages/reportimport.png)
-
 
 Notice that the fields "Full Name" and "Role" have now been imported into the report.
 
@@ -2582,7 +2577,6 @@ click the button ![image63](https://user-images.githubusercontent.com/81401104/1
 
 Now go to the "Project" tab.
 ![image](https://user-images.githubusercontent.com/81401104/117499953-5d27ca80-af52-11eb-859f-0537b2d324e5.png)
-
 
 In the row of your project, which you created the "X Report", click the ![image](https://user-images.githubusercontent.com/81401104/117499977-644ed880-af52-11eb-8c2d-f860cacd36af.png) button,
 
